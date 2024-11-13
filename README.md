@@ -18,5 +18,5 @@ Make sure you have Python 3.7+ installed.
 1. Clone this repository:
 
    ```bash
-   git clone https://github.com/your-username/Deepfake-Detection-Tool.git
+   git clone https://github.com/kerenskariah/Deepfake-Detection-Tool.git
    cd Deepfake-Detection-Tool
