@@ -1,0 +1,4 @@
+Deepfake-Detection-Tool/
+├── app.py                # Streamlit app code
+├── requirements.txt      # Python dependencies
+└── README.md             # Project documentation
